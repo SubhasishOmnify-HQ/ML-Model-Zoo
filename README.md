@@ -2,7 +2,7 @@
 
 # 🤖 Machine Learning Model Development Portfolio
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=250&section=header&text=Machine%20Learning%20Projects&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=250&section=header&text=Machine%20Learning%20Model%20Zoo&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Machine+Learning+Developer;Python+%7C+NumPy+%7C+Pandas;Scikit-Learn+Enthusiast;Building+Machine+Learning+Models;Always+Learning+New+Things+🚀"/>
 
