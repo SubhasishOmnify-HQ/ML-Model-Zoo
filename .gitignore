@@ -83,4 +83,4 @@ htmlcov/
 # ==========================
 .DS_Store
 Thumbs.db
-02_Classfication/catboost_info
+catboost_info
