@@ -1,0 +1,27 @@
+Load Dataset
+      │
+      ▼
+EDA
+      │
+      ▼
+Train-Test Split
+      │
+      ▼
+Pipeline
+      │
+      ├── Missing Value
+      ├── Encoding
+      ├── Scaling
+      ├── Polynomial Features (Optional)
+      ├── Feature Selection (Optional)
+      ├── PCA (Optional)
+      └── Model
+      │
+      ▼
+fit()
+      │
+      ▼
+predict()
+      │
+      ▼
+Evaluation
